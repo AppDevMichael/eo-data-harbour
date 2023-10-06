@@ -1,0 +1,4 @@
+
+[tools]
+
+python={virtualenv=".venv", version="3.11"}
